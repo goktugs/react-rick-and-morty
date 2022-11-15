@@ -10,7 +10,7 @@ const Card = () => {
           className="mx-auto"
         />
         <span>Morty Smith</span>
-        <div className="flex flex-row justify-around text-white items-center bottom-0 bg-blue-900 absolute w-full h-10 ">
+        <div className="flex  text-white items-center bottom-0 bg-blue-900 absolute w-full h-10 ">
           <div>
             <a href="/">Get new character</a>
           </div>
